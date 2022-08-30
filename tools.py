@@ -1,6 +1,7 @@
 import math
 
-x = 1000
+x = 9000
+y = 1500
 ##　算第三邊
 def calculate_triangle_third_edge(edge_1, edge_2, is_third_edge_long_edge=True): 
     if is_third_edge_long_edge:
